@@ -1,6 +1,6 @@
 # Customer_behaviour
 
-#Project Description
+Project Description
 
 Customer Shopping Behavior Analysis is an end-to-end data analytics project that examines retail transaction data to uncover valuable business insights. The project focuses on understanding customer purchasing patterns, product performance, seasonal trends, and customer segmentation.
 
@@ -16,7 +16,7 @@ Excel	Data validation and quick analysis
 Power BI	Interactive dashboard creation
 Jupyter Notebook	Analysis and documentation
 
-#Methodology
+Methodology
 
 The project follows a structured data analytics workflow:
 
